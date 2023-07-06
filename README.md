@@ -9,3 +9,5 @@ This project provides reusable React components for implementing signing and sig
 - **Sign-up Component**: An easy-to-use sign-up component that enables users to create new accounts.
 - **Form Validation**: Built-in form validation with support for various field types, including email, password, and more.
 - **Customization**: Easily customizable components to match your application's design and branding.
+![SignUp page](readmeimages/signup.PNG)
+![SignIn page](readmeimages/signin.PNG)
